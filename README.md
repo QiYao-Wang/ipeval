@@ -103,7 +103,12 @@ Please name the file as: **language (ch/en)_task (patent/relation/english)_mode 
 
 ## Citation
 ```
-We will upload the paper to arXiv or make supplementary actions after it is accepted.
+@article{wang2024ipeval,
+  title={IPEval: A Bilingual Intellectual Property Agency Consultation Evaluation Benchmark for Large Language Models},
+  author={Wang, Qiyao and Huang, Jianguo and Lu, Shule and Lin, Yuan and Xu, Kan and Yang, Liang and Lin, Hongfei},
+  journal={arXiv preprint arXiv:2406.12386},
+  year={2024}
+}
 ```
 
 ## Acknowledgement
